@@ -1,0 +1,21 @@
+0 A
+1 B
+2 C
+3 Cricket
+4 down
+5 Flower
+6 Food
+7 Have a nice day
+8 Hello
+9 How are you
+10 How's it
+11 No
+12 Ok
+13 please
+14 Promise
+15 small
+16 thanks
+17 Up
+18 washroom
+19 Water
+20 Smile
